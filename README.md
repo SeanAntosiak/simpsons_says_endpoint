@@ -8,8 +8,7 @@ and better quote prediction
 
 Dataset Taken from [Kaggle](https://www.kaggle.com/pierremegret/dialogue-lines-of-the-simpsons) and filtered to only include quotes with at least 3 lemmas
 
-Currently Deployed with heroku at https://simpsons-quote-predictor.herokuapp.com/input?input_text=
-
+Currently Deployed with heroku at https://simpsons-quote-predictor.herokuapp.com/input?input_text=  
 To find a quote similar to input text, just add your input to the end of the url
 If no additonal text is included a quote will be returned at random
 
