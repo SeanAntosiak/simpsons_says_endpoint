@@ -5,3 +5,5 @@ create_models.py must be ran to generate models before initiating the app
 
 Parameters in create_models.py can be changed to allow for a more complex model
 and better quote prediction.
+
+These files were created in colaboration with Michael Curry, Luke Townsend, and Michael Gospodinoff
